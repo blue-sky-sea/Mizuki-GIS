@@ -16,7 +16,7 @@ Heatmap Map</br>
 ## Futrue Work
 to relaize Dynamic map  
 
-Comibined with my Travel WEB
+to comibine with my Travel WEB
  -  https://github.com/blue-sky-sea/MCTS-TRAVEL-PLAN  
  
 more map type and real-time COVID info
